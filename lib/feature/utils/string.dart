@@ -1,0 +1,15 @@
+const String USERNAME = "Name";
+const String EMAIL = "Email";
+const String PASSWORD = "Password";
+const String SIGNIN = "Sign in";
+const String SIGNUP = "Sign up";
+const String REGISTER = "Register";
+const String LOGIN = "Login";
+const String TASK = "Task";
+const String PLACE = "Place";
+const String TIME = "Time";
+const String NOTIFICATION = "Notification";
+const String BUSINESS = "Business";
+const String PROFESSIONAL = "Professional";
+const String ADDYOURTHING = "ADD YOUR THING";
+const String ADDNEWTHING = "Add new thing";
